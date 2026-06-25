@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../compsciClasses [HTML&CSS]/results-summary-component-main"
+		},
+		{
+			"path": "../compsciClasses [HTML&CSS]/product-preview-card-component-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "product-preview-card-component-main"
+	}
+}
