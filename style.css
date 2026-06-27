@@ -52,7 +52,7 @@ h3 {
 @media (max-width: 600px) {
 
     td {
-        padding-right: 100%;
+        padding-right: 100px;
     }
 
     h1 {
